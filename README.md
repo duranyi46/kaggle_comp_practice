@@ -1,1 +1,1 @@
-"# kaggle_comp_practice" 
+my submissions to kaggle getting started competitions
